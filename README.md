@@ -1,5 +1,5 @@
 # Electricity Consumption Forecasting
-The following study aims to forecast the electricity consumption of a particular building during the 18th February 2010. The forecasting will also assess the impact of the outdoor air temperature.
+The following study aims to forecast the electricity consumption of a particular building during the 18th February 2010. The forecasting will also assess the impact of the outdoor air temperature. The project is written in R and Markdown
 
 
 ## Dataset
