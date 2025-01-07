@@ -1,4 +1,6 @@
 # Electricity Consumption Forecasting
+![](image.PNG)
+
 The following study aims to forecast the electricity consumption of a particular building during the 18th February 2010. The forecasting will also assess the impact of the outdoor air temperature.
 
 
@@ -24,7 +26,9 @@ The goal is to get the best forecasts by navigating through various time-series 
 
 
 ## To run the project
-* Run the file *elec_cons_forecast.Rmd*   
+Run the file *elec_cons_forecast.Rmd* in the folder *src*
+
+**NB:** If you don't have R installed, you can still access to the analysis through the file *elec_cons_forecast.md*
 
 
 ## Closing
